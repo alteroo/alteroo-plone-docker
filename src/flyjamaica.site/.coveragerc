@@ -1,0 +1,6 @@
+[report]
+include =
+    src/flyjamaica/*
+omit =
+    */test*
+    */upgrades/*
